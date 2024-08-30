@@ -45,7 +45,7 @@ This project leverages remote sensing technologies and Geographic Information Sy
 | **Regression Models**       | N/A          | Used for predicting urban growth based on historical data. Assumes linear relationship, which might not be accurate for all cases.                       |
 
 ### Annual/Yearly Growth Graph
-<img src= '' align= "center"/>
+<img src= 'anualUrbanGrowth.PNG' align= "center"/>
 ## Future Goals
 - Explore integrating additional data sources, such as LiDAR or aerial imagery, to enhance predictions.
 - Continue refining the methodology to adapt to new data and technology advancements.
