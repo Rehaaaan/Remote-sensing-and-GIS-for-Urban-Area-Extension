@@ -35,6 +35,17 @@ This project leverages remote sensing technologies and Geographic Information Sy
 - CNNs, while effective, required substantial computational resources.
 - NDBI was useful for differentiating built-up areas from natural landscapes.
 
+### Performance of Different Algorithms
+| **Algorithm**              | **Accuracy** | **Key Insights**                                                                                                                                       |
+|----------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Random Forest**           | 98.79%       | High accuracy in classifying urban, water, vegetation, and barren land areas. Avoided overfitting and handled data variations effectively.               |
+| **Convolutional Neural Network (CNN)** | 91.43%       | Effective for image classification and object detection. Required significant computational resources.                                                  |
+| **Normalized Difference Built-up Index (NDBI)** | N/A          | Successfully identified urban areas by emphasizing differences between SWIR and NIR bands. Relative NDBI values used for classification.               |
+| **Support Vector Machine (SVM)**       | N/A          | Faced challenges in accurately classifying different land types, particularly due to misclassification in band colors (Red, Blue, Green).                |
+| **Regression Models**       | N/A          | Used for predicting urban growth based on historical data. Assumes linear relationship, which might not be accurate for all cases.                       |
+
+### Annual/Yearly Growth Graph
+
 ## Future Goals
 - Explore integrating additional data sources, such as LiDAR or aerial imagery, to enhance predictions.
 - Continue refining the methodology to adapt to new data and technology advancements.
