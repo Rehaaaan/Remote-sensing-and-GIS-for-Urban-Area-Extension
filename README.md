@@ -1,5 +1,6 @@
 # Remote Sensing and GIS for Urban Area Extension
-<img src= '_00549f2a-8f7c-491d-83bf-551346498a97.jpg'  width = 700 align= 'center'/>
+<img src= '_00549f2a-8f7c-491d-83bf-551346498a97.jpg'  width = 700 align= "center"/>
+
 ## Project Overview
 This project leverages remote sensing technologies and Geographic Information Systems (GIS) to support urban planning. By integrating satellite imagery with machine learning algorithms, we analyzed urban growth patterns, providing insights valuable for city planners, engineers, and decision-makers.
 
