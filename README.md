@@ -45,7 +45,8 @@ This project leverages remote sensing technologies and Geographic Information Sy
 | **Regression Models**       | N/A          | Used for predicting urban growth based on historical data. Assumes linear relationship, which might not be accurate for all cases.                       |
 
 ### Annual/Yearly Growth Graph
-<img src= 'anualUrbanGrowth.PNG' align=center/>
+<img src= 'anualUrbanGrowth.PNG' align = 'center'/>
+
 ## Future Goals
 - Explore integrating additional data sources, such as LiDAR or aerial imagery, to enhance predictions.
 - Continue refining the methodology to adapt to new data and technology advancements.
@@ -54,9 +55,3 @@ This project leverages remote sensing technologies and Geographic Information Sy
 ## Acknowledgments
 This project was completed as part of an internship at the Indian Institute of Information Technology Allahabad under the guidance of Dr. Triloki Pant. Special thanks to the project team members for their collaboration and dedication.
 
-## Presentations
-- [Internship Presentation](#)
-- [Remote Sensing & GIS Project Presentation](#)
-
-## Repository Link
-[Add GitHub repository link here]
